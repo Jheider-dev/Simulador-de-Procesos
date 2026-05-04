@@ -1,0 +1,6 @@
+PID,Llegada,Rafaga
+P1,0,10
+P2,1,2
+P3,2,1
+P4,3,3
+P5,4,4
